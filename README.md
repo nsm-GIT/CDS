@@ -211,7 +211,7 @@ Add screenshots of the application here.
 
 ### Dashboard
 
-![SalesProcessor Dashboard](screenshots/1.   Starting.png)
+![SalesProcessor Dashboard](screenshots/starting.png)
 
 ### Quotation Management
 
