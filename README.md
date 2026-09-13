@@ -235,7 +235,7 @@ Add screenshots of the application here.
 
 ### Reporting
 
-![Inventory Management](screenshots/reports.png)
+![Inventory Management](screenshots/reportings.png)
 
 ### Options
 
@@ -248,7 +248,7 @@ Add screenshots of the application here.
 
 ### Pre-work Level Book
 
-![Company Management](screenshots/prework_levelbook.png)
+![Company Management](screenshots/level_book.png)
 
 ### Summary Sheet
 
