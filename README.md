@@ -209,46 +209,58 @@ The application includes:
 
 Add screenshots of the application here.
 
-### Dashboard
+### SplashScreen
 
 ![SalesProcessor Dashboard](screenshots/starting.png)
 
-### Quotation Management
+### Authentication
 
-![Quotaiton Management](screenshots/quote.png)
+![Quotaiton Management](screenshots/authentication.png)
 
-### Sales Order Management
+### Data Entry
 
-![Sales Order Management](screenshots/salesorders.png)
+![Sales Order Management](screenshots/data_entry.png)
 
-### Invoice Management
+### X-Section
 
-![Invoice Management](screenshots/invoices.png)
+![Invoice Management](screenshots/x_section.png)
 
-### Payment Management
+### Longitudinal Profile
 
-![Payment Management](screenshots/payments.png)
+![Payment Management](screenshots/long_profile.png)
 
-### Packing Slip Management
+### 3D Model of Canal
 
-![Packing Slip Management](screenshots/packings.png)
+![Packing Slip Management](screenshots/three_d.png)
 
-### Inventory Management
+### Reporting
 
-![Inventory Management](screenshots/items.png)
+![Inventory Management](screenshots/reports.png)
 
-### Item Sales & Purchase History
+### Options
 
-![Item History](screenshots/item_history.png)
+![Item History](screenshots/options.png)
 
-### Customer Management
+### Project Setup
 
-![Customer Management](screenshots/customers.png)
+![Customer Management](screenshots/project_setup.png)
 
 
-### Company Management
+### Pre-work Level Book
 
-![Company Management](screenshots/company.png)
+![Company Management](screenshots/prework_levelbook.png)
+
+### Summary Sheet
+
+![Company Management](screenshots/summary_sheet.png)
+
+### Commodity Sheet
+
+![Company Management](screenshots/commodity_sheet.png)
+
+### Comprehensive Summary Report
+
+![Company Management](screenshots/comprehensive_summary_report.png)
 
 
 This provides users with visual feedback while the application initializes.
