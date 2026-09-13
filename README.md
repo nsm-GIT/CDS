@@ -252,7 +252,7 @@ Add screenshots of the application here.
 
 ### Summary Sheet
 
-![Company Management](screenshots/summary_sheet.png)
+![Company Management](screenshots/summary_report.png)
 
 ### Commodity Sheet
 
