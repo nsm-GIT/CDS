@@ -125,60 +125,6 @@ The installer can provide:
 
 CDS includes an online authentication and licensing system.
 
-The application identifies a computer using machine information such as:
-
-- Computer name
-- Windows user
-- Machine GUID
-- PC ID
-- Motherboard serial
-- BIOS serial
-- HDD serial
-- MAC address
-- CPU ID
-
-The application communicates with the CDS licensing server through an HTTP API.
-
-The authentication workflow is:
-
-```text
-Start CDS
-    │
-    ▼
-Collect Computer Identity
-    │
-    ▼
-Contact Licensing Server
-    │
-    ▼
-Check PC Registration
-    │
-    ├── Not Registered
-    │       │
-    │       ▼
-    │   Registration Form
-    │
-    ├── Pending
-    │
-    ├── Approved
-    │       │
-    │       ▼
-    │   Email Activation
-    │
-    ├── Activated
-    │       │
-    │       ▼
-    │   Start CDS
-    │
-    ├── Rejected
-    │
-    └── Blocked
-```
-
-The licensing server uses a separate web API and database to manage registered users and computers.
-
----
-
 # User Registration
 
 When a new computer starts CDS for the first time, the application can display the registration form.
