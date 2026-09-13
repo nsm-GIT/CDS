@@ -204,19 +204,52 @@ The application includes:
 
 ---
 
-# Splash Screen
 
-CDS uses a custom splash screen during application startup.
+# 📸 Screenshots
 
-The splash screen provides startup information such as:
+Add screenshots of the application here.
 
-```text
-Starting CDS...
-Loading modules...
-Connecting database...
-Checking license...
-Loading interface...
-```
+### Dashboard
+
+![SalesProcessor Dashboard](screenshots/dashboard.png)
+
+### Quotation Management
+
+![Quotaiton Management](screenshots/quote.png)
+
+### Sales Order Management
+
+![Sales Order Management](screenshots/salesorders.png)
+
+### Invoice Management
+
+![Invoice Management](screenshots/invoices.png)
+
+### Payment Management
+
+![Payment Management](screenshots/payments.png)
+
+### Packing Slip Management
+
+![Packing Slip Management](screenshots/packings.png)
+
+### Inventory Management
+
+![Inventory Management](screenshots/items.png)
+
+### Item Sales & Purchase History
+
+![Item History](screenshots/item_history.png)
+
+### Customer Management
+
+![Customer Management](screenshots/customers.png)
+
+
+### Company Management
+
+![Company Management](screenshots/company.png)
+
 
 This provides users with visual feedback while the application initializes.
 
